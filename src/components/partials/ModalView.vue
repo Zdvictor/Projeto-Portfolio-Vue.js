@@ -8,7 +8,7 @@
     data-bs-toggle="modal"
     data-bs-target="#modalId"
   >
-    Launch
+    Open
   </button>
   
   <!-- Modal Body -->
