@@ -291,7 +291,7 @@ export default {
         this.title = "Plaze";
         this.desc =
           "Este projeto foi desenvolvido no final de 2023, enquanto eu estudava desenvolvimento web (HTML, CSS, Bootstrap e JavaScript). Porém, em 2024, com os conhecimentos que adquiri em backend, fiz um refactoring na estrutura do projeto, adicionando o framework Vue e consumindo API no backend. Este projeto consiste em uma casa de apostas fictícia.";
-        this.src = "https://zdvictor.github.io/Projeto-Plaze-Vue.js/";
+        this.src = "https://plaze.vercel.app";
       }
 
       if (value == 3) {
