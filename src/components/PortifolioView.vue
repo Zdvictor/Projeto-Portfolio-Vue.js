@@ -60,7 +60,7 @@
             </p>
 
             <a
-              href="https://github.com/Zdvictor/Projeto-Portfolio-Vue.js/blob/gh-pages/Cv.pdf"
+              href="https://github.com/Zdvictor/Projeto-Portfolio-Vue.js/blob/main/src/assets/Cv.pdf"
               class="btn btn-success btn-lg m-2"
               >BAIXAR CV</a
             >
