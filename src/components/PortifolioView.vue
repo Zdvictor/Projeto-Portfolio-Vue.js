@@ -185,7 +185,7 @@
         <div class="row">
           <div class="col-md">
             <h4 class="fs-about-me mt-3 text-center">
-              <p>Olá, meu nome é Victor e tenho 19 anos.</p>
+              <p>Olá, meu nome é Victor tenho 19 anos.</p>
               <p>Estou estudando Desenvolvimento Web Full Stack e sempre gostei muito de tecnologia.</p>
               <p>
                 Desde os 18 anos, tenho me dedicado a aprender as tecnologias mais atuais do mercado.
